@@ -10,7 +10,7 @@ Ini adalah proyek sederhana Todo List API yang dibuat menggunakan Golang dan fra
 
 # Cara Menjalankan Proyek
 1. Pastikan Go dan PostgreSQL sudah terinstal di sistem.
-2. Clone repository ini:
+2. Clone repository ini :
    ```sh
    git clone https://github.com/FahmiHeykal/todo-app-go.git
    cd todo-app-go
